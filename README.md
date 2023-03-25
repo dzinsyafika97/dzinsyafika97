@@ -13,5 +13,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzinsyafika97)](https://github.com/dzinsyafika97/github-readme-stats)
+[![dzinsyafika97's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzinsyafika97)](https://github.com/dzinsyafika97/github-readme-stats)
 
